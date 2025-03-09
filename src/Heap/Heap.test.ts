@@ -1,5 +1,5 @@
 import { describe, expect, test } from 'bun:test'
-import { Heap } from './Heap'
+import Heap from './Heap'
 
 describe('Heap', () => {
 	// Helper function to create a min heap

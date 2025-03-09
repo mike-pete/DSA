@@ -1,4 +1,4 @@
-export class Heap<T> {
+export default class Heap<T> {
 	private heap: (T | undefined)[] = [undefined]
 	private prioritize: (a: T, b: T) => number
 

@@ -1,3 +1,4 @@
+import Heap from './Heap/Heap'
 import RollingFreq from './RollingFreq/RollingFreq'
 
-export { RollingFreq }
+export { Heap, RollingFreq }
