@@ -9,6 +9,7 @@
 	"scripts": {
 		"build": "bun build ./src/index.ts --outdir ./dist",
 		"test": "bun test --coverage",
+		"test:ci": "bun test --coverage --coverage-threshold 100",
 		"clean": "rm -rf dist"
 	},
 	"keywords": [

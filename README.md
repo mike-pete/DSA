@@ -1,3 +1,7 @@
+# RollingFreq
+
+[![Test](https://github.com/mike-pete/DSA/actions/workflows/test.yml/badge.svg)](https://github.com/mike-pete/DSA//actions/workflows/test.yml)
+
 # DSA
 
 A TypeScript library containing helpful data structures and algorithms.
