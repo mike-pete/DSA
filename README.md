@@ -1,6 +1,6 @@
 # DSA
 
-[![Test](https://github.com/mike-pete/DSA/actions/workflows/test.yml/badge.svg)](https://github.com/mike-pete/DSA/actions/workflows/test.yml)
+[![Test](https://github.com/mike-pete/DSA/actions/workflows/tests.yml/badge.svg)](https://github.com/mike-pete/DSA/actions/workflows/tests.yml)
 
 A TypeScript library containing helpful data structures and algorithms.
 
