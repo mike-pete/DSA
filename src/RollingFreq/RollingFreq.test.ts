@@ -16,7 +16,7 @@ describe('RollingFreq', () => {
 
 		x.add('a')
 		expect(x.isDesiredGroup).toBe(false)
-		expect(x.items).toEqual(['aa'])
+		expect(x.items).toEqual(['a'])
 
 		x.add('a')
 		expect(x.isDesiredGroup).toBe(false)
