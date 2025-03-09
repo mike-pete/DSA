@@ -1,0 +1,29 @@
+{
+	"name": "rollingfreq",
+	"version": "0.0.1",
+	"module": "src/index.ts",
+	"type": "module",
+	"description": "A TypeScript library for tracking rolling frequencies with a queue-based implementation",
+	"main": "dist/index.js",
+	"types": "dist/index.d.ts",
+	"scripts": {
+		"build": "bun build ./src/index.ts --outdir ./dist",
+		"test": "bun test --coverage",
+		"clean": "rm -rf dist"
+	},
+	"keywords": [
+		"data structures",
+		"algorithms",
+		"dsa",
+		"typescript"
+	],
+	"author": "",
+	"license": "MIT",
+	"devDependencies": {
+		"@types/bun": "latest",
+		"bun-types": "latest"
+	},
+	"peerDependencies": {
+		"typescript": "^5.0.0"
+	}
+}
